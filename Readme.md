@@ -21,7 +21,10 @@ It is based on visual odometry principles using feature tracking and triangulati
 - Matplotlib: Plotting trajectory
 - Python + NumPy: Backend logic and simulation
 
-
+# Video file is large, may take time to clone!!
+The input video used for SLAM is included in the repository at:  
+`video_input/IMG_2790.MOV`
+Or download it directly from Google Drive: https://drive.google.com/file/d/1eTVb-aCNDtX9KCoIuI1V5G51gX5vU4AG/view?usp=sharing
 
 # SLAM Algorithm Used
 
